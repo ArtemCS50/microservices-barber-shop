@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Entity
 @Table(name = "catalog_services")
-public class Catalog {
+public class Service {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -25,9 +25,9 @@ public class Catalog {
     @Column(name = "price")
     private Double price;
 
-    @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "master_id")
-    private Master master;
+//    @ManyToOne(fetch = FetchType.LAZY)
+//    @JoinColumn(name = "master_id")
+//    private Master master;
 }
 
 
