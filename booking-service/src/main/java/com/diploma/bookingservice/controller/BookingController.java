@@ -1,14 +1,10 @@
-package com.diploma.example.bookingservice.controller;
+package com.diploma.bookingservice.controller;
 
-import com.diploma.example.bookingservice.dto.BookingDTO;
-import com.diploma.example.bookingservice.dto.BookingCreateRequestDTO;
-import com.diploma.example.bookingservice.dto.BookingUpdateRequestDTO;
-import com.diploma.example.bookingservice.service.BookingService;
+import com.diploma.bookingservice.service.BookingService;
+import com.diploma.bookingservice.dto.BookingDTO;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.List;
 
 @RestController
 @RequestMapping("/api/booking")

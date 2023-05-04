@@ -1,4 +1,4 @@
-package com.diploma.example.bookingservice.exception;
+package com.diploma.bookingservice.exception;
 
 public class BookingNotFoundException extends RuntimeException {
 

@@ -1,10 +1,10 @@
-package com.diploma.example.bookingservice.service;
+package com.diploma.bookingservice.service;
 
 
-import com.diploma.example.bookingservice.dto.BookingDTO;
-import com.diploma.example.bookingservice.exception.BookingNotFoundException;
-import com.diploma.example.bookingservice.model.Booking;
-import com.diploma.example.bookingservice.repository.BookingRepository;
+import com.diploma.bookingservice.dto.BookingDTO;
+import com.diploma.bookingservice.exception.BookingNotFoundException;
+import com.diploma.bookingservice.model.Booking;
+import com.diploma.bookingservice.repository.BookingRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.diploma.example.bookingservice.dto;
+package com.diploma.bookingservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.diploma.example.bookingservice.model;
+package com.diploma.bookingservice.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
