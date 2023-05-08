@@ -1,0 +1,12 @@
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\exception\ServiceNotFoundException.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\model\Master.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\repository\CatalogRepository.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\exception\MasterNotFoundException.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\controller\CatalogController.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\CatalogServiceApplication.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\dto\MasterDTO.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\dto\ServiceDTO.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\model\Service.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\repository\ServiceRepository.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\repository\MasterRepository.java
+E:\diploma\microservices-barber-shop\catalog-service\src\main\java\com\diploma\catalogservice\service\CatalogService.java

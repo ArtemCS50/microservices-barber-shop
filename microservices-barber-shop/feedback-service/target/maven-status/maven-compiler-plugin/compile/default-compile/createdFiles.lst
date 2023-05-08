@@ -1,0 +1,7 @@
+com\diploma\feedbackservice\controller\FeedbackController.class
+com\diploma\feedbackservice\FeedbackServiceApplication.class
+com\diploma\feedbackservice\exeption\FeedbackNotFoundException.class
+com\diploma\feedbackservice\repository\FeedbackRepository.class
+com\diploma\feedbackservice\service\FeedbackService.class
+com\diploma\feedbackservice\dto\FeedbackDTO.class
+com\diploma\feedbackservice\model\Feedback.class

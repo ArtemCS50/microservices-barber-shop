@@ -1,0 +1,12 @@
+com\diploma\catalogservice\exception\MasterNotFoundException.class
+com\diploma\catalogservice\repository\ServiceRepository.class
+com\diploma\catalogservice\repository\CatalogRepository.class
+com\diploma\catalogservice\service\CatalogService.class
+com\diploma\catalogservice\dto\MasterDTO.class
+com\diploma\catalogservice\exception\ServiceNotFoundException.class
+com\diploma\catalogservice\model\Service.class
+com\diploma\catalogservice\dto\ServiceDTO.class
+com\diploma\catalogservice\controller\CatalogController.class
+com\diploma\catalogservice\repository\MasterRepository.class
+com\diploma\catalogservice\CatalogServiceApplication.class
+com\diploma\catalogservice\model\Master.class

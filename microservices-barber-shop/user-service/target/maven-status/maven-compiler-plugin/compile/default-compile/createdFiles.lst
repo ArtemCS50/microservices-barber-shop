@@ -1,0 +1,7 @@
+com\diploma\userservice\dto\UserDTO.class
+com\diploma\userservice\UserServiceApplication.class
+com\diploma\userservice\repository\UserRepository.class
+com\diploma\userservice\service\UserService.class
+com\diploma\userservice\controller\UserController.class
+com\diploma\userservice\model\User.class
+com\diploma\userservice\exception\UserNotFoundException.class
