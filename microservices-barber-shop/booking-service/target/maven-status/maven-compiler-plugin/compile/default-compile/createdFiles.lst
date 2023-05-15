@@ -1,0 +1,10 @@
+com\diploma\bookingservice\model\Booking.class
+com\diploma\bookingservice\exception\BookingNotFoundException.class
+com\diploma\bookingservice\controller\BookingController.class
+com\diploma\bookingservice\service\BookingService.class
+com\diploma\bookingservice\dto\BookingDTO.class
+com\diploma\bookingservice\BookingServiceApplication.class
+com\diploma\bookingservice\dto\BookingUpdateRequestDTO.class
+com\diploma\bookingservice\repository\BookingRepository.class
+com\diploma\bookingservice\dto\BookingCreateRequestDTO.class
+com\diploma\bookingservice\model\TimeSlot.class

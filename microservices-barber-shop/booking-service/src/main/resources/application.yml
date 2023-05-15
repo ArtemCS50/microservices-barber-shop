@@ -5,7 +5,7 @@ spring:
     password: postgres
     driver-class-name: org.postgresql.Driver
   application:
-    name: catalog-service
+    name: booking-service
   jpa:
     hibernate:
       ddl-auto: update
@@ -15,3 +15,7 @@ spring:
         format_sql: true
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
