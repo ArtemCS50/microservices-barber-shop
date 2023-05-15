@@ -5,7 +5,7 @@ spring:
     password: postgres
     driver-class-name: org.postgresql.Driver
   application:
-    name: catalog-service
+    name: schedule-service
   jpa:
     hibernate:
       ddl-auto: update
@@ -16,5 +16,9 @@ spring:
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
 
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
 server:
   port: 8082
